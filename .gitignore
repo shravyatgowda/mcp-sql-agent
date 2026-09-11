@@ -1,0 +1,4 @@
+db/demo.db
+eval/results.json
+__pycache__/
+*.pyc
